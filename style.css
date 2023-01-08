@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/02/27/79/96/360_F_227799644_pHYjHHrqGNVX0VzKDyobWKyTnKpetjCY.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+    justify-content: center;
+    display: flex;
+    margin-top: 300px;
+}
+#time {
+    border: 3px solid rgb(25, 119, 201);
+    padding: 60px;
+    text-align: center;
+    background-color: rgb(34, 37, 36);
+    border-radius: 0px 50px 0px 50px;
+    color: rgb(185, 201, 222);
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: 0px 0px 30px 7px;
+    font-family: 'Times New Roman', Times, serif;
+}
